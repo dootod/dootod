@@ -9,7 +9,7 @@
 
 - 👨‍💻 Tout mes projets sont disponible sur [https://dootod.github.io/portfolio/](https://dootod.github.io/portfolio/)
 
-- 📫 How to reach me **thomas.dumont1806@gmail.com**
+- 📫 Contactez moi **thomas.dumont1806@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
